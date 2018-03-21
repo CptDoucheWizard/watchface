@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat Jan 20 13:42:37 NZDT 2018
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Alex\\Downloads\\watchface-master\\watchface-master\\4-ambient\\build\\intermediates\\transforms\\dex\\release\\0
+0.path=classes.dex
+0.set=DEX
+count=1
